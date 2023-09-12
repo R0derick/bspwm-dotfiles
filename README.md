@@ -1,2 +1,2 @@
 # bspwm-dotfiles
-! [screenshot.png]
+! [png](./screenshot.png)
