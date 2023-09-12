@@ -1,2 +1,2 @@
 # bspwm-dotfiles
-! [png](screenshot.png)
+! [png](https://github.com/R0derick/bspwm-dotfiles/blob/main/screenshot.png)
