@@ -1,1 +1,2 @@
 # bspwm-dotfiles
+screenshot.png
